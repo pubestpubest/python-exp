@@ -1,2 +1,1 @@
-# python-exp
-A repository for learning Python with examples and demos
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
